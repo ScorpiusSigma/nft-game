@@ -55,7 +55,7 @@ export default function Home() {
 
   const checkNetwork = async () => {
     try {
-      if (window.ethereum.networkVersion !== "4") {
+      if (window.ethereum.networkVersion !== "5") {
         alert("Please connect to Rinkeby!");
       }
     } catch (error) {
