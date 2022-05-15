@@ -1,0 +1,8 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/contracts/=smart_contract/node_modules/@openzeppelin/contracts",
+    "hardhat/=smart_contract/node_modules/hardhat",
+    "base64-sol/=smart_contract/node_modules/base64-sol"
+  ],
+  "solidity.compileUsingLocalVersion": "c:\\Users\\Justin\\Desktop\\Scorpius\\Personal Projects\\Software Development\\nft-game\\soljson-v0.8.1+commit.df193b15.js"
+}
